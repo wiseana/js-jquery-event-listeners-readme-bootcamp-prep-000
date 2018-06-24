@@ -8,5 +8,5 @@ function frameIt() {$('img').addClass('tasty')}
 $(document).ready(function(){
 
 // call functions here
-getIt(); pressIt(); submitIt();
+getIt(); pressIt(); submitIt(); frameIt()
 });
